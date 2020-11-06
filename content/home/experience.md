@@ -32,13 +32,13 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
-  title = ""
-  company = " X"
-  company_url = ""
-  location = ""
-  date_start = ""
-  date_end = "-"
-  description = """"""
+# [[experience]]
+# title = ""
+#  company = " X"
+#  company_url = ""
+#  location = ""
+#  date_start = ""
+#  date_end = "-"
+# description = """"""
 
 +++
